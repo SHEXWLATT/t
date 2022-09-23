@@ -1,5 +1,5 @@
 # Partner-Bot-V13
-All Copyright By Rayan
+All Copyright By SHEX-WLAT
 
 
 
