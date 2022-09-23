@@ -148,4 +148,4 @@ console.log(err)
 
 //https://discord.gg/qtkPbKeDSV//DSCODES//
 
-client.login(token)
+client.login(OTA2NjQ5NjUwMzY5NTYwNjA2.GK7vXB.flVILp3K4vF_hzYOoTex4rHd5XRp6EfM3oLEpU)
